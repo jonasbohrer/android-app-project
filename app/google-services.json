@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1054414429258",
+    "firebase_url": "https://minha-dieta-f92f1.firebaseio.com",
+    "project_id": "minha-dieta-f92f1",
+    "storage_bucket": "minha-dieta-f92f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054414429258:android:2ec078310baab440",
+        "android_client_info": {
+          "package_name": "com.abc.helloworldapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054414429258-ad9loft8mlivkuc9q9t433v3836t0vjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abc.helloworldapp",
+            "certificate_hash": "a8cff87a9a830744d6373cb61e045c80946809e5"
+          }
+        },
+        {
+          "client_id": "1054414429258-vi1mpqkvv7k9fug5bho6lomae9ejs06u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFzr4FiXXLV-KzD5vcXc__k6URcTbamkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054414429258-vi1mpqkvv7k9fug5bho6lomae9ejs06u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

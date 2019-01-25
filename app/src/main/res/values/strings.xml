@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Minha Dieta</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_label">Send Message</string>
+    <string name="emptyStr" />
+    <string name="teste">Testando</string>
+    <string name="dialog_message">Alimento adicionado com sucesso</string>
+    <string name="dialog_title">Sucesso</string>
+    <string name="hintBotao">Pressione o botão e diga qual foi sua refeição</string>
+    <string name="registros">Registros</string>
+    <string name="pacientes">Pacientes</string>
+    <string name="graficos">Gráficos</string>
+    <string name="titulo">MINHA DIETA</string>
+</resources>
